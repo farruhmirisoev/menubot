@@ -1,0 +1,94 @@
+{
+    "weekdays": [
+    {
+        "day_title": "Понедельник",
+        "obed":
+        {
+            "meal_title": "lagman",
+            "serve_time": "13:00"
+        },
+        "ujin":
+        {
+            "meal_title": "mastava",
+            "serve_time": "18:00"
+        }
+    },
+    {
+        "day_title": "Вторник",
+        "obed":
+        {
+            "meal_title": "plov",
+            "serve_time": "13:00"
+        },
+        "ujin":
+        {
+            "meal_title": "kurinaya lapsha",
+            "serve_time": "18:00"
+        }
+    },
+    {
+        "day_title": "Среда",
+        "obed":
+        {
+            "meal_title": "plov",
+            "serve_time": "13:00"
+        },
+        "ujin":
+        {
+            "meal_title": "kurinaya lapsha",
+            "serve_time": "18:00"
+        }
+    },
+    {
+        "day_title": "Четверг",
+        "obed":
+        {
+            "meal_title": "plov",
+            "serve_time": "13:00"
+        },
+        "ujin":
+        {
+            "meal_title": "kurinaya lapsha",
+            "serve_time": "18:00"
+        }
+    },
+    {
+        "day_title": "Пятница",
+        "obed":
+        {
+            "meal_title": "plov",
+            "serve_time": "13:00"
+        },
+        "ujin":
+        {
+            "meal_title": "kurinaya lapsha",
+            "serve_time": "18:00"
+        }
+    },
+    {
+        "day_title": "Суббота",
+        "obed":
+        {
+            "meal_title": "plov",
+            "serve_time": "13:00"
+        },
+        "ujin":
+        {
+            "meal_title": "kurinaya lapsha",
+            "serve_time": "17:00"
+        }
+    },
+    {
+        "day_title": "Воскресение",
+        "obed":
+        {
+            "meal_title": "Evos, Diet_kafe, Dunyo",
+            "serve_time": "13:00"
+        },
+        "ujin":
+        {
+            "meal_title": "N/A",
+            "serve_time": "18:00"
+        }
+    }]
+}
