@@ -22,7 +22,7 @@
         },
         "ujin":
         {
-            "meal_title": "kurinaya lapsha",
+            "meal_title": "goroxoviy sup",
             "serve_time": "18:00"
         }
     },
@@ -30,12 +30,12 @@
         "day_title": "Среда",
         "obed":
         {
-            "meal_title": "plov",
+            "meal_title": "pelmeni",
             "serve_time": "13:00"
         },
         "ujin":
         {
-            "meal_title": "kurinaya lapsha",
+            "meal_title": "makaroni",
             "serve_time": "18:00"
         }
     },
@@ -43,12 +43,12 @@
         "day_title": "Четверг",
         "obed":
         {
-            "meal_title": "plov",
+            "meal_title": "kuriniy bulyon s lapshoy",
             "serve_time": "13:00"
         },
         "ujin":
         {
-            "meal_title": "kurinaya lapsha",
+            "meal_title": "plov",
             "serve_time": "18:00"
         }
     },
@@ -56,12 +56,12 @@
         "day_title": "Пятница",
         "obed":
         {
-            "meal_title": "plov",
+            "meal_title": "2v1",
             "serve_time": "13:00"
         },
         "ujin":
         {
-            "meal_title": "kurinaya lapsha",
+            "meal_title": "jarkoe s myasom",
             "serve_time": "18:00"
         }
     },
@@ -69,12 +69,12 @@
         "day_title": "Суббота",
         "obed":
         {
-            "meal_title": "plov",
+            "meal_title": "makaroni",
             "serve_time": "13:00"
         },
         "ujin":
         {
-            "meal_title": "kurinaya lapsha",
+            "meal_title": "plov",
             "serve_time": "17:00"
         }
     },
